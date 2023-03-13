@@ -1,0 +1,1 @@
+import{m as t,u as n}from"./VProgressCircular.1d93308b.js";import{s,j as r}from"./entry.c99f9de5.js";const f=s({name:"VContainer",props:{fluid:{type:Boolean,default:!1},...t()},setup(e,a){let{slots:o}=a;return n(()=>r(e.tag,{class:["v-container",{"v-container--fluid":e.fluid}]},o)),{}}});export{f as V};
